@@ -1,3 +1,7 @@
 This is a text for testing porpuse on the github and to use the git status commands
 
 This is other line to testing porpuse not the aquatic mamal named dolphin
+
+This is prodily edited with neo vim for the win, go back to age of cave and stones and carve for bones
+
+See you in the dark side of the moon!
